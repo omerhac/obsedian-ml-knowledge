@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "476dc4c24d5db009",
+        "id": "9180383110270790",
         "type": "leaf",
         "active": true,
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "25774cb7cc92a815",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Attention.md",
-            "mode": "preview"
-          }
+          "state": {}
         }
       }
     ],
@@ -84,11 +71,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Sequence To Sequence.md",
-    "LSTM.md",
-    "Attention.md",
     "Natural Language Processing.md",
     "Untitled.md",
+    "Attention.md",
+    "Sequence To Sequence.md",
+    "LSTM.md",
     "צילום מסך 2020-10-09 ב-18.05.40.png",
     "Natural langeuage processing.md"
   ]

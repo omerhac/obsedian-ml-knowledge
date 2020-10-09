@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2122319ea1d79db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "476dc4c24d5db009",
+        "type": "leaf",
+        "active": true,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "25774cb7cc92a815",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Attention.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc4ec8dff2d5061",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc490854e4f7227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e168f519d107eb7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c594f599d19e909",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "latex"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1679fc3edc47f25d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0271e11624f2caab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15fa60a2b5944f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Sequence To Sequence.md",
+    "LSTM.md",
+    "Attention.md",
+    "Natural Language Processing.md",
+    "Untitled.md",
+    "צילום מסך 2020-10-09 ב-18.05.40.png",
+    "Natural langeuage processing.md"
+  ]
+}

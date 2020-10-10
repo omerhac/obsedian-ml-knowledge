@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Transformer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Transformer.md"
+              }
             }
           }
         ]
@@ -71,10 +76,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Natural Language Processing.md",
+    "Transformer.md",
+    "Bilogical Machine Learning.md",
     "Untitled.md",
-    "Attention.md",
+    "Natural Language Processing.md",
     "Sequence To Sequence.md",
+    "Attention.md",
     "LSTM.md",
     "צילום מסך 2020-10-09 ב-18.05.40.png",
     "Natural langeuage processing.md"

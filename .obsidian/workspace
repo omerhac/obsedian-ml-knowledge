@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "476dc4c24d5db009",
+        "id": "9180383110270790",
         "type": "leaf",
+<<<<<<< HEAD
         "pinned": true,
         "state": {
           "type": "graph",
@@ -23,6 +24,12 @@
             "file": "Sequence To Sequence.md",
             "mode": "preview"
           }
+=======
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+>>>>>>> f55b1d1842d5c3a69ea259c65b6df7d6c7f3c3d2
         }
       }
     ],
@@ -86,11 +93,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Sequence To Sequence.md",
-    "LSTM.md",
-    "Attention.md",
     "Natural Language Processing.md",
     "Untitled.md",
+    "Attention.md",
+    "Sequence To Sequence.md",
+    "LSTM.md",
     "צילום מסך 2020-10-09 ב-18.05.40.png",
     "Natural langeuage processing.md"
   ]

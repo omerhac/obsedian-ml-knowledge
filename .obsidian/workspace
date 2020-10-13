@@ -6,7 +6,6 @@
       {
         "id": "476dc4c24d5db009",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -17,10 +16,11 @@
       {
         "id": "25774cb7cc92a815",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Attention.md",
+            "file": "Sequence To Sequence.md",
             "mode": "preview"
           }
         }
@@ -73,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Sequence To Sequence.md"
+              }
             }
           }
         ]

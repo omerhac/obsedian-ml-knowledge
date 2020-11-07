@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Transformer.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Transformer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,14 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Transformer.md",
-    "Bilogical Machine Learning.md",
+    "Image Processing.md",
+    "Cat Face Verification and Identification.md",
     "Untitled.md",
+    "FaceNet.md",
     "Natural Language Processing.md",
-    "Sequence To Sequence.md",
+    "Enzynet.md",
     "Attention.md",
-    "LSTM.md",
-    "צילום מסך 2020-10-09 ב-18.05.40.png",
-    "Natural langeuage processing.md"
+    "Sequence To Sequence.md",
+    "Transformer.md",
+    "Bilogical Machine Learning.md"
   ]
 }

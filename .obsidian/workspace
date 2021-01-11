@@ -8,10 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
-          "state": {
-            "file": "Images/Pasted image 20210111141520.png"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Images/Pasted image 20210111141520.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -75,15 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Image Processing.md",
+    "Computer Vision/FaceNet.md",
+    "Computer Vision/Region of Interest Pooling.md",
+    "Untitled.md",
+    "Computer Vision/Faster R-CNN.md",
     "Pasted image 20210111141520.png",
     "Pasted image 20210111141747.png",
     "Pasted image 20210111151920.png",
-    "Computer Vision/Region of Interest Pooling.md",
-    "Computer Vision/Faster R-CNN.md",
     "Computer Vision/Computer Vision.md",
-    "Untitled.md",
-    "Computer Vision/Mean Average Precision.md",
-    "Image Processing.md",
-    "Computer Vision/Untitled.md"
+    "Computer Vision/Mean Average Precision.md"
   ]
 }

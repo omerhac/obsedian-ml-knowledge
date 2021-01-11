@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Vision/DALL-E.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Computer Vision/DALL-E.md"
+              }
             }
           }
         ]
@@ -72,6 +77,7 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "NLP/Transformer.md",
     "Computer Vision/Computer Vision.md",
     "Fast R-CNN.md",
     "Image Processing.md",
@@ -79,7 +85,6 @@
     "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/Faster R-CNN.md",
     "Pasted image 20210111141520.png",
-    "Pasted image 20210111141747.png",
-    "Pasted image 20210111151920.png"
+    "Pasted image 20210111141747.png"
   ]
 }

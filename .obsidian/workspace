@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Vision/Computer Vision.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Computer Vision/Computer Vision.md"
+              }
             }
           }
         ]
@@ -71,6 +76,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Computer Vision/Computer Vision.md",
+    "Fast R-CNN.md",
     "Image Processing.md",
     "Computer Vision/FaceNet.md",
     "Computer Vision/Region of Interest Pooling.md",
@@ -78,8 +85,6 @@
     "Computer Vision/Faster R-CNN.md",
     "Pasted image 20210111141520.png",
     "Pasted image 20210111141747.png",
-    "Pasted image 20210111151920.png",
-    "Computer Vision/Computer Vision.md",
-    "Computer Vision/Mean Average Precision.md"
+    "Pasted image 20210111151920.png"
   ]
 }

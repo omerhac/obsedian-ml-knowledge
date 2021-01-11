@@ -13,5 +13,5 @@
 3) More layers of the LSTM really helps reduce preplexity.
 4) Paralleliaztion can be done on a layer basis, each forward pass can be calculated seperatly on a different GPU wating only for the previous layer to finish.
 
-[Natural Language Processing](Natural%20Language%20Processing.md)
-[LSTM](LSTM.md)
+[Natural Language Processing](Natural%20Language%20Processing)
+[LSTM](LSTM)

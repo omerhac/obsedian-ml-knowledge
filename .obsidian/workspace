@@ -1,50 +1,33 @@
 {
   "main": {
-    "id": "2122319ea1d79db8",
+    "id": "04a2d0c1787fdb93",
     "type": "split",
     "children": [
       {
-        "id": "9180383110270790",
-        "type": "leaf",
-<<<<<<< HEAD
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "25774cb7cc92a815",
+        "id": "e228b8b3e3b032a7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sequence To Sequence.md",
+            "file": "Faster R-CNN.md",
             "mode": "preview"
           }
-=======
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
->>>>>>> f55b1d1842d5c3a69ea259c65b6df7d6c7f3c3d2
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7bc4ec8dff2d5061",
+    "id": "5f0ab63e7c20efa6",
     "type": "split",
     "children": [
       {
-        "id": "5dc490854e4f7227",
+        "id": "0f87901f85314014",
         "type": "tabs",
         "children": [
           {
-            "id": "e168f519d107eb7f",
+            "id": "5537a0c3f8ebaab3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +35,12 @@
             }
           },
           {
-            "id": "7c594f599d19e909",
+            "id": "a28aa3620c9e0950",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "latex"
+                "query": ""
               }
             }
           }
@@ -68,20 +51,20 @@
     "width": 300
   },
   "right": {
-    "id": "1679fc3edc47f25d",
+    "id": "740bdd7016178b13",
     "type": "split",
     "children": [
       {
-        "id": "0271e11624f2caab",
+        "id": "049b3bdbd93fd362",
         "type": "tabs",
         "children": [
           {
-            "id": "a15fa60a2b5944f0",
+            "id": "2a0f49994d5e8420",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence To Sequence.md"
+                "file": "Faster R-CNN.md"
               }
             }
           }
@@ -93,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Image Processing.md",
-    "Cat Face Verification and Identification.md",
-    "Untitled.md",
-    "FaceNet.md",
-    "Natural Language Processing.md",
-    "Enzynet.md",
-    "Attention.md",
-    "Sequence To Sequence.md",
-    "Transformer.md",
-    "Bilogical Machine Learning.md"
+    "Faster R-CNN.md",
+    "Pasted image 20210111131747.png",
+    "Pasted image 20210111131801.png",
+    "NLP/Transformer.md",
+    "NLP/Sequence To Sequence.md",
+    "NLP/Natural Language Processing.md",
+    "NLP/LSTM.md",
+    "NLP/Attention.md",
+    "Computer Vision/Triplet loss function.md",
+    "Computer Vision/Cat Face Verification and Identification.md"
   ]
 }

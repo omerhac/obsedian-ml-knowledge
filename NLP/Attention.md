@@ -27,4 +27,4 @@ $$ score(h,s) = cosine(h, s) / tanh(h^TWs) / ... $$
 
 ** Therefore, if input node $x_i$ is of high importance to decode node $y_j$, the assigned weight $a_ij$ will have high value
 
-[Natural Language Processing](Natural%20Language%20Processing.md)
+[Natural Language Processing](Natural%20Language%20Processing)

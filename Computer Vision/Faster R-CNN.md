@@ -3,7 +3,7 @@
 
 - Object detection going towards real-time inference. (5FPS)
 - This architecture uses a Region Proposal Network (RPN) that uses shared image features with the classifier, thus drastically reducing running time while maintaining accuracy. 
-- The main change from Fast R-CNN is the RPN. The classifier is actually a Fast R-CNN ontop an RoI pooling.
+- The main change from Fast R-CNN is the RPN. The classifier is actually a Fast R-CNN ontop a [Region of Interest Pooling](Region%20of%20Interest%20Pooling.md) .
 
 General architecture:
 ![](Pasted%20image%2020210111131854.png)

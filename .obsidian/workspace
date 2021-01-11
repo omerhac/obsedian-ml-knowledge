@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Computer Vision/Computer Vision.md",
-            "mode": "source"
+            "file": "Images/Pasted image 20210111141520.png"
           }
         }
       }
@@ -64,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Computer Vision.md"
+                "file": "Images/Pasted image 20210111141520.png"
               }
             }
           }
@@ -76,15 +75,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Computer Vision/Computer Vision.md",
+    "Pasted image 20210111141520.png",
+    "Pasted image 20210111141747.png",
+    "Pasted image 20210111151920.png",
+    "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/Faster R-CNN.md",
+    "Computer Vision/Computer Vision.md",
+    "Untitled.md",
     "Computer Vision/Mean Average Precision.md",
     "Image Processing.md",
-    "Computer Vision/Untitled.md",
-    "Untitled.md",
-    "Faster R-CNN.md",
-    "Pasted image 20210111131747.png",
-    "Pasted image 20210111131801.png",
-    "NLP/Transformer.md"
+    "Computer Vision/Untitled.md"
   ]
 }

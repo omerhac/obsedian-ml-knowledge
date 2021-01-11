@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e228b8b3e3b032a7",
+        "id": "bdf477a9ce833e23",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Vision/Computer Vision.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Computer Vision/Computer Vision.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,12 +71,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Computer Vision/Computer Vision.md",
     "Fast R-CNN.md",
     "Image Processing.md",
     "Computer Vision/FaceNet.md",
     "Computer Vision/Region of Interest Pooling.md",
-    "Untitled.md",
     "Computer Vision/Faster R-CNN.md",
     "Pasted image 20210111141520.png",
     "Pasted image 20210111141747.png",

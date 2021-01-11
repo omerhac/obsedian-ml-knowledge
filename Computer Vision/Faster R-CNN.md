@@ -9,8 +9,11 @@ General architecture:
 ![](Pasted%20image%2020210111131854.png)
 
 ## Region Proposal Network
+The idea here is to run the expenssive feature extractor only once (and not once per bbox size/ratio) and reduce time spent on classical region proposal schemes.
+Both on running time and number of proposals.
+
 Arbiterery sized images are processed threw a pre-trained network (ZF or VGG-16) for computing image features.
-Then a sliding window of size 3x3 (A Covolutional layer) is pased over the features so every patch of 3x3 can be assigned Bounding Box coordinates and objectness score.
+Then a sliding window of size 3x3 (A Covolutional layer) is pased over the features so every patch of 3x3 can be assigned Bounding Box coordinates (Xcenter, Ycenter, width, height) and objectness score.
 This is done via 2 separate dense layers (one for score and one for coordinates, actually implemented by 1x1x256 Conv layer).
 This process is done simultaneously for 9 BBox "Anochors" (of re-defined size and aspect ration) so every score and coordinates are relative to one of the anchors.
 This produces (4 coordinates + 2 scores) x 9 anchors outputs per patch of 3x3 features.
@@ -29,6 +32,6 @@ This architecture also uses shared weights between the RPN and classifier so the
 1) Alternated training- training each network while the other is held constant and using its predictions and then switching.
 2) Joint model training - online RPN infrence and using the proposed regions as input to the classifier. The gradient is propogated threw both networks.
 
-The metric used id [mAP].
+The metric used id [Mean Average Precision](Mean%20Average%20Precision.md).
 
 [Computer Vision](Computer%20Vision.md)

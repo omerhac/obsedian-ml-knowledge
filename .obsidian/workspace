@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Faster R-CNN.md",
-            "mode": "preview"
+            "file": "Computer Vision/Computer Vision.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faster R-CNN.md"
+                "file": "Computer Vision/Computer Vision.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Computer Vision/Computer Vision.md",
+    "Computer Vision/Faster R-CNN.md",
+    "Computer Vision/Mean Average Precision.md",
+    "Image Processing.md",
+    "Computer Vision/Untitled.md",
+    "Untitled.md",
     "Faster R-CNN.md",
     "Pasted image 20210111131747.png",
     "Pasted image 20210111131801.png",
-    "NLP/Transformer.md",
-    "NLP/Sequence To Sequence.md",
-    "NLP/Natural Language Processing.md",
-    "NLP/LSTM.md",
-    "NLP/Attention.md",
-    "Computer Vision/Triplet loss function.md",
-    "Computer Vision/Cat Face Verification and Identification.md"
+    "NLP/Transformer.md"
   ]
 }

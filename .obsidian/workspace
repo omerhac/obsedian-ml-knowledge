@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3e10e3e8596a36",
+        "id": "2d55e49b5d04570c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Vision/Computer Vision.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Computer Vision/Computer Vision.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -77,14 +72,14 @@
   },
   "lastOpenFiles": [
     "Computer Vision/Computer Vision.md",
+    "Fully Convoultional Instance Segmentation.md",
+    "Untitled.md",
     "Computer Vision/Deformable Convolutions.md",
     "Pasted image 20210112172450.png",
     "Pasted image 20210112171229.png",
     "Deformable Convolutions.md",
     "NLP/Attention.md",
-    "Untitled.md",
     "NLP/Transformer.md",
-    "Fast R-CNN.md",
-    "Image Processing.md"
+    "Fast R-CNN.md"
   ]
 }

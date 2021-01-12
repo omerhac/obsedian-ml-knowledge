@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf477a9ce833e23",
+        "id": "ec3e10e3e8596a36",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Vision/DALL-E.md",
-            "mode": "preview"
+            "file": "Computer Vision/Computer Vision.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/DALL-E.md"
+                "file": "Computer Vision/Computer Vision.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Computer Vision/Computer Vision.md",
+    "Computer Vision/Deformable Convolutions.md",
+    "Pasted image 20210112172450.png",
+    "Pasted image 20210112171229.png",
+    "Deformable Convolutions.md",
+    "NLP/Attention.md",
     "Untitled.md",
     "NLP/Transformer.md",
-    "Computer Vision/Computer Vision.md",
     "Fast R-CNN.md",
-    "Image Processing.md",
-    "Computer Vision/FaceNet.md",
-    "Computer Vision/Region of Interest Pooling.md",
-    "Computer Vision/Faster R-CNN.md",
-    "Pasted image 20210111141520.png",
-    "Pasted image 20210111141747.png"
+    "Image Processing.md"
   ]
 }

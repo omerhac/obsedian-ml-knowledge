@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2d55e49b5d04570c",
+        "id": "72465ed884bc05b4",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -60,7 +65,13 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -72,14 +83,14 @@
   },
   "lastOpenFiles": [
     "Computer Vision/Computer Vision.md",
-    "Fully Convoultional Instance Segmentation.md",
+    "Focal Loss.md",
     "Untitled.md",
+    "Computer Vision/Mean Average Precision.md",
+    "Computer Vision/Region of Interest Pooling.md",
+    "Computer Vision/CLIP.md",
+    "Computer Vision/DALL-E.md",
     "Computer Vision/Deformable Convolutions.md",
-    "Pasted image 20210112172450.png",
-    "Pasted image 20210112171229.png",
-    "Deformable Convolutions.md",
-    "NLP/Attention.md",
-    "NLP/Transformer.md",
-    "Fast R-CNN.md"
+    "Computer Vision/FaceNet.md",
+    "Computer Vision/Fast R-CNN.md"
   ]
 }

@@ -8,3 +8,4 @@
 [Fast R-CNN](Fast%20R-CNN.md)
 [Deformable Convolutions](Deformable%20Convolutions.md)
 [Fully Convoultional Instance Segmentation](Fully%20Convoultional%20Instance%20Segmentation.md)
+[Focal Loss](Focal%20Loss.md)

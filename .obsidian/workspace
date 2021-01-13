@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "72465ed884bc05b4",
+        "id": "4e437c66ccfed014",
         "type": "leaf",
         "active": true,
         "state": {
@@ -83,14 +83,14 @@
   },
   "lastOpenFiles": [
     "Computer Vision/Computer Vision.md",
-    "Focal Loss.md",
+    "Feature Pyramids.md",
+    "Computer Vision/Focal Loss.md",
     "Untitled.md",
+    "Focal Loss.md",
     "Computer Vision/Mean Average Precision.md",
     "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/CLIP.md",
     "Computer Vision/DALL-E.md",
-    "Computer Vision/Deformable Convolutions.md",
-    "Computer Vision/FaceNet.md",
-    "Computer Vision/Fast R-CNN.md"
+    "Computer Vision/Deformable Convolutions.md"
   ]
 }

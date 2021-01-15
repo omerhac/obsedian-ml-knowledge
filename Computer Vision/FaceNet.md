@@ -11,3 +11,4 @@
 	- One should start the training without hard examplars, for the network not to collapse to the trivial local optima
 
 [Image Processing](Image%20Processing.md)]
+[Triplet loss function](Triplet%20loss%20function.md)

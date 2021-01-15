@@ -13,4 +13,4 @@
 		- The input is concatinated with the previous cell state and then passed threw a learned layer in oreder to extract meaningfull information.
 	4) Output gate ($o_t$): sigmoid activated gate to tell which information ffrom the cell state we should output.
 	
-	[Natural Language Processing](Natural%20Language%20Processing.md)
+	[Natural Language Processing](Natural%20Language%20Processing)

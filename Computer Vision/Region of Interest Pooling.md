@@ -13,3 +13,6 @@ As shown here, different size patches are pooled to a constant size map:
 
 - Implementation trick for bounding box coordinates: use relative coordinates (with respect to the feature map of bbox proposal) in order to not account to the image shape changes during convolution operations.
 
+[Object Detection](Object%20Detection.md)
+[Computer Vision](Computer%20Vision.md)
+

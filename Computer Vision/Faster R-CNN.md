@@ -34,4 +34,4 @@ This architecture also uses shared weights between the RPN and classifier so the
 
 The metric used id [Mean Average Precision](Mean%20Average%20Precision.md).
 
-[Computer Vision](Computer%20Vision.md)
+[Object Detection](Object%20Detection.md)

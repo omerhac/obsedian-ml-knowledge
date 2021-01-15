@@ -29,4 +29,4 @@ The aqcired offsets are able to 'attend' to various object shapes and sizes:
 
 There is also a deformable RoI layer described in the paper, the general idea is the same and I wont go into the details here.
 
-[Deformable Convolutions](Deformable%20Convolutions.md)
+[Computer Vision](Computer%20Vision.md)

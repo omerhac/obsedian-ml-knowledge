@@ -29,4 +29,4 @@ And thus we can see that when the model is sure, $(1-p_t)^\gamma$  is low, and t
 The paper shows by a simple one shot network architecture that a fully convolutional network which is trained with Focal Loss can achive SOTA performance on the object detection task.
 I wont go into the details of the architecture but I'll just say that for such model to work it is essential to use [Feature Pyramids](Feature%20Pyramids.md) More on that in the paper.
 
-[Computer Vision](Computer%20Vision.md)
+[Object Detection](Object%20Detection.md)

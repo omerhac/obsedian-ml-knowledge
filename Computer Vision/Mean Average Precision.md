@@ -18,4 +18,4 @@ This is usually softened  to disable noise by two methods:
 This is combined to create mean Average Precesion as in COCO-dataset.
 It is done by computing the AP value with the 1st softening method for a range of IoU threshold. That is the mAP@[0.5:0.95:0.05] is the mean AP computed for each TP threshold in the range 0.5 to 0.95 with step size of 0.05.
 
-[Computer Vision](Computer%20Vision.md)
+[Object Detection](Object%20Detection.md)

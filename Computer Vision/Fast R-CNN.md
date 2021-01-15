@@ -18,4 +18,4 @@ Architecture:
 The loss is multitask loss for class probabilities and bounding box regression:
 ![](Pasted%20image%2020210111161655.png)
 
-[Computer Vision](Computer%20Vision.md)
+[Object Detection](Object%20Detection.md)

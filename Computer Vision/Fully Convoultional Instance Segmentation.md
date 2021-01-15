@@ -34,4 +34,5 @@ Segmenting and classifying objects from the score maps is a rather quick and str
 
 This process is quiet fast and thus can be done for a lot of ROI with relatively low cost.
 
-[Computer Vision](Computer%20Vision.md)
+[Object Detection](Object%20Detection.md)
+[Object Segmentation](Object%20Segmentation)

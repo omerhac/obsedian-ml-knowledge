@@ -10,5 +10,5 @@
 		-	semi-hard negative are such that $0 < d(a, n) - d(a, p) < \alpha$
 	- One should start the training without hard examplars, for the network not to collapse to the trivial local optima
 
-[Image Processing](Image%20Processing.md)]
+[Recognition](Recognition.md)
 [Triplet loss function](Triplet%20loss%20function.md)

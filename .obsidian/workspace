@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9180383110270790",
+        "id": "ebe1fafd92594fcf",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Vision/Fully Convoultional Instance Segmentation.md",
-            "mode": "preview"
+            "file": "SAM.md",
+            "mode": "source"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Fully Convoultional Instance Segmentation.md",
+                "file": "SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "ebe1fafd92594fcf",
   "lastOpenFiles": [
-    "Computer Vision/Fully Convoultional Instance Segmentation.md",
-    "Computer Vision/Focal Loss.md",
-    "Computer Vision/Object Segmentation.md",
+    "SAM.md",
+    "NLP/Attention.md",
+    "Untitled.md",
+    "NLP/Transformer.md",
     "Computer Vision/Triplet loss function.md",
     "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/Recognition.md",
-    "Computer Vision/Object Detection.md",
+    "Computer Vision/Object Segmentation.md",
     "Computer Vision/Mean Average Precision.md",
-    "Computer Vision/Feature Pyramids.md",
-    "Computer Vision/Faster R-CNN.md"
+    "Computer Vision/Fully Convoultional Instance Segmentation.md"
   ]
 }

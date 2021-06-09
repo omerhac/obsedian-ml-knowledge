@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe1fafd92594fcf",
+        "id": "d07570b914a2b34e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SAM.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebe1fafd92594fcf",
+  "active": "d07570b914a2b34e",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
     "SAM.md",
     "NLP/Attention.md",
-    "Untitled.md",
     "NLP/Transformer.md",
     "Computer Vision/Triplet loss function.md",
     "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/Recognition.md",
     "Computer Vision/Object Segmentation.md",
-    "Computer Vision/Mean Average Precision.md",
-    "Computer Vision/Fully Convoultional Instance Segmentation.md"
+    "Computer Vision/Mean Average Precision.md"
   ]
 }

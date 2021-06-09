@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6824bed687281f",
+        "id": "4b4817d81ba9978c",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e6824bed687281f",
+  "active": "4b4817d81ba9978c",
   "lastOpenFiles": [
+    "Vision Transformers.md",
+    "ViTs with SAM.md",
+    "Untitled.md",
     "Computer Vision/EfficiantNets.md",
     "Computer Vision/Deformable Convolutions.md",
     "Computer Vision/FaceNet.md",
     "Computer Vision/Fast R-CNN.md",
     "Computer Vision/Ef.md",
     "Computer Vision/DALL-E.md",
-    "Untitled.md",
-    "Computer Vision/Fully Convoultional Instance Segmentation.md",
-    "Computer Vision/Mean Average Precision.md",
-    "Computer Vision/Object Detection.md"
+    "Computer Vision/Fully Convoultional Instance Segmentation.md"
   ]
 }

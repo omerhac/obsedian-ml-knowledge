@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d07570b914a2b34e",
+        "id": "b53b56159d2b736d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mixup.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mixup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d07570b914a2b34e",
+  "active": "b53b56159d2b736d",
   "lastOpenFiles": [
-    "README.md",
+    "Mixup.md",
     "Untitled.md",
+    "README.md",
     "SAM.md",
     "NLP/Attention.md",
     "NLP/Transformer.md",
     "Computer Vision/Triplet loss function.md",
     "Computer Vision/Region of Interest Pooling.md",
     "Computer Vision/Recognition.md",
-    "Computer Vision/Object Segmentation.md",
-    "Computer Vision/Mean Average Precision.md"
+    "Computer Vision/Object Segmentation.md"
   ]
 }
